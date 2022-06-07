@@ -5,3 +5,4 @@
 
 # Hello world
 Mr smith
+[[Kong|Kong]]
