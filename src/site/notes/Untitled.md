@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/untitled/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+
+# Hello world
+Mr smith
