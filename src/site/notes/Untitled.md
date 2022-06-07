@@ -6,3 +6,4 @@
 # Hello world
 Mr smith
 [[Kong|Kong]]
+[[Photography/Visual elements creating composition|Visual elements creating composition]]
